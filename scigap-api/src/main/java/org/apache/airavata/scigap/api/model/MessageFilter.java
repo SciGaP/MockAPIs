@@ -1,5 +1,5 @@
 package org.apache.airavata.scigap.api.model;
 
-public interface ToolInfo {
-	
+public interface MessageFilter {
+
 }

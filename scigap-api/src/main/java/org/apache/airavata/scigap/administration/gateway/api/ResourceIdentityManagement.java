@@ -1,4 +1,4 @@
-package org.apache.airavata.scigap.administration.api;
+package org.apache.airavata.scigap.administration.gateway.api;
 
 import java.util.List;
 

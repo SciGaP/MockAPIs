@@ -1,4 +1,4 @@
-package org.apache.airavata.scigap.administration.api;
+package org.apache.airavata.scigap.administration.gateway.api;
 
 import org.apache.airavata.scigap.api.model.User;
 import org.apache.airavata.scigap.api.model.UserGroup;

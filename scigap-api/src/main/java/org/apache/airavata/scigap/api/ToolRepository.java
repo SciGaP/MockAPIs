@@ -2,9 +2,9 @@ package org.apache.airavata.scigap.api;
 
 import java.util.List;
 
-import org.apache.airavata.scigap.api.model.ToolInfo;
+import org.apache.airavata.scigap.api.model.ToolData;
 
 public interface ToolRepository {
 	public List<String> getToolIds();
-	public ToolInfo getToolInformation(String toolId);
+	public ToolData getToolData(String toolId);
 }
